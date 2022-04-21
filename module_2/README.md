@@ -12,4 +12,4 @@ no because I was run commnad on 24.04 but lates was on 22.04
  With star
  git log --pretty=format:"%ad - %an: %s" --after="2021-04-20" --until="2021-04-21" 
  James Bardin done commit
- 
+git commit --date "Mon Jul 05 17:00 2021 +0200" -m "last date" with this coomand you can commint in any day
